@@ -543,17 +543,17 @@ No. 10: Don’t abuse the three supreme values.
 
 Buddha, Dharma, and Sangha are the foundation of Buddhist life. We must honour them, esteem them and devote ourselves to them.
 
-### 8\. Morals
+### 8\. Moral Action/Right Action
 
-The insistence that Buddhist teachings are based on our human action means that Buddhism teaches us to revere morals. In our human societies, people who have excellent thinking ability are very revered and people who have excellent sensitive feeling are also revered very much. But I wonder whether people who are very sincere in pursuing morals are revered or not. I think this is very strange fact, but it may be true. And we can notice that today value is placed on the fundamental human abilities to think and feel, and so reverence for morals cannot be found so easily.
+The insistence that Buddhist teachings are based on our human action means that Buddhism teaches us to revere moral or right action. In our human societies, people who have excellent thinking ability are very revered and people who have excellent sensitive feeling are also revered very much. But I wonder whether people who are very sincere in acting morally are revered or not. I think this is very strange fact, but it may be true. And we can notice that today value is placed on the fundamental human abilities to think and feel, and so reverence for acting morally, acting right, cannot be found so easily.
 
 In ancient times and in the medieval ages human productivity was not so big, and so people at that time had to share their poor products. In those days, it was sometimes necessary for a society to be governed by a strong hero who could maintain peace.
 
 But in the modern age, because of the enormous development in scientific knowledge, productivity has much progressed. And many powerful industries were established and a capitalist society has been created in which money is one of the most important values. It seems that the most important task in modern society is to get money.
 
-But because of the enormous development of industries in some societies, there is an abundance of money and goods, and in such situations people began to look for another aim of life other than money. And in this situation, I think that Gautama Buddha’s teachings that the most important happiness is just to live a moral life gives us a hint as to how we can assess the value of human life.
+But because of the enormous development of industries in some societies, there is an abundance of money and goods, and in such situations people began to look for another aim of life other than money. And in this situation, I think that Gautama Buddha’s teachings that the most important happiness is just to live a life based on right action gives us a hint as to how we can assess the value of human life.
 
-I am afraid that many people may laugh at my stupidity in believing that human history is going to enter a new age where human morals have the highest value. But when I think about the stream of human history, it is impossible for me not to conclude that the age of morals is going to come to human societies now.
+I am afraid that many people may laugh at my stupidity in believing that human history is going to enter a new age where acting morally has the highest value. But when I think about the stream of human history, it is impossible for me not to conclude that the age of moral action is going to come to human societies now.
 
 
 # 12. Master Dogen’s Practical Philosophy
@@ -1117,5 +1117,5 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.00 - 2020-05-18
+V 1.01 - 2020-05-21
 
