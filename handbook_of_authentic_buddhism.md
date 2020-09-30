@@ -1111,10 +1111,10 @@ This e-book is just an ebup/mobi/azw3/md version of the pdf file found on the fo
 
 ## About this e-book
 
-This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
+This e-book was created by [ahtrahddis](https://ahtrahddis.github.io) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
 
 
 ## Version
 
-V 2.10 - 2020-06-10
+V 2.11 - 2020-09-30
 
